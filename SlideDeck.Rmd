@@ -1,0 +1,45 @@
+---
+title: "Life Insurance Net Premium Calculator"
+author: "Gian Atmaja"
+date: "5/27/2020"
+output: ioslides_presentation
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = FALSE)
+```
+
+## What is it?
+This program is designed to calculate the cost of coverage for a life insurance policy, 
+Simply put in your age, gender, smoking status, and insurance product details and have the
+cost of coverage calculated
+
+## Product Details
+
+- Whole-life: Insures policyholder for an entire lifetime. Premiums paid annually until death. Sum assured paid on death of policyholder.
+
+- Endowment & Term: Insures policyholder for an agreed length of period. Premiums paid annually during the period. The dfference between an endowment and term is that for endowment, the sum assured will be paid out at the end of the policy, or on the policyholder's death, whichever one occurs first. For term, the sum assured will only be paid on the death of the policyholder if it occurs during the term of the policy.
+
+## Assumptions
+
+- Risk-free rate of 4% per annum
+- Smoking increases mortality rate by 30%
+- Life table taken from [Global Health Organization](Link: https://apps.who.int/gho/data/view.main.60750?lang=en)
+
+## Methodology
+
+The method used to calculate the premium is the equivalence principle. This method mathces the
+benefits paid to the premium received, with regards to the death risk at each age and the risk-free rate.
+
+## Thank you
+
+The code is available in my 
+[Github](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator)
+repository  
+
+Hope you find it interesting
+
+
+
+
+

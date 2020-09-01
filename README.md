@@ -13,10 +13,7 @@ The web application then outputs an amount, representing the annual cost of cove
 
 The web application can be accessed [here](https://gian-atmaja.shinyapps.io/LI_Premium/).
 
-For more details on the assumptions, calculations, or on the types of policies,
+For more details on the assumptions, calculations, or on the types of policies, kindly view the slide deck created for the web application [here](https://rpubs.com/Ga25/620229).
 
 
 
-
-
-[Link to presentation on app](https://rpubs.com/Ga25/620229)

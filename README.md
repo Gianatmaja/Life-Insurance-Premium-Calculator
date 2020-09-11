@@ -4,7 +4,7 @@
 - [View web application](https://gian-atmaja.shinyapps.io/LI_Premium/)
 - [View slide deck](https://rpubs.com/Ga25/620229)
 
-### Description. 
+### Description:  
 This web application, deployed using R's shiny, estimates the cost of coverage for a life insurance policy in Indonesia.
 The calculations used are based on the life table from the [Global Health Observatory Data Repository](https://apps.who.int/gho/data/view.main.60750?lang=en).
 

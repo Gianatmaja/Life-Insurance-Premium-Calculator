@@ -16,6 +16,10 @@ The inputs taken by the web application includes:
 
 The web application then outputs an amount, representing the annual cost of coverage required under the inputs and set assumptions.
 
+### Web App in Action
+Some screenshots of the web app in action can be viewed below.
 
+![Image1](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/Screenshot%202022-11-15%20at%2010.13.31%20AM.png)
 
+![Image2](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/Screenshot%202022-11-15%20at%2010.13.50%20AM.png)
 

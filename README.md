@@ -16,6 +16,14 @@ The inputs taken by the web application includes:
 
 The web application then outputs an amount, representing the annual cost of coverage required under the inputs and set assumptions.
 
+### Methodology
+We take the following assumptions to calculate the premium:
+- Risk free rate of 4% per annum.
+- Smoking increases mortality rate by 30%.
+- Life table taken from the [Global Health Organization](link:%20https://apps.who.int/gho/data/view.main.60750?lang=en)
+
+The method used to calculate the premium is the equivalence principle. This method mathces the benefits paid to the premium received, with regards to the death risk at each age and the risk-free rate.
+
 ### Web App in Action
 Some screenshots of the web app in action can be viewed below.
 

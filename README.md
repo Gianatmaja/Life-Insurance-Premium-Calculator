@@ -1,4 +1,4 @@
-# Life-Insurance-Premium-Calculator
+# Life Insurance Premium Calculator
 
 ### Quick Links:  
 - [View web application](https://gian-atmaja.shinyapps.io/LI_Premium/)
@@ -27,7 +27,7 @@ The method used to calculate the premium is the equivalence principle. This meth
 ### Web App in Action
 Some screenshots of the web app in action can be viewed below.
 
-![Image1](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/Screenshot%202022-11-15%20at%2010.13.31%20AM.png)
+![Image1](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/WebApp1.png)
 
-![Image2](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/Screenshot%202022-11-15%20at%2010.13.50%20AM.png)
+![Image2](https://github.com/Gianatmaja/Life-Insurance-Premium-Calculator/blob/master/Images/WebApp2.png)
 
